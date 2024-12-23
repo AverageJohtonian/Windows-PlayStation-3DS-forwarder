@@ -9,7 +9,7 @@
 # Tutorial
 This tutorial was possible thanks to [CrystalTikal](https://gbatemp.net/members/crystaltikal.702551/).
 
-1. Download this repository by clicking the button below.
+1. Download this repository by clicking the button below. Then extract it.
 
 [<kbd> <br> Download <br> </kbd>](https://github.com/AverageJohtonian/Windows-PlayStation-3DS-forwarder/archive/refs/heads/main.zip)
 
