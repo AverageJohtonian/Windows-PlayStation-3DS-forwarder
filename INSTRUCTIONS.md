@@ -51,7 +51,7 @@ bannertool.exe makebanner -i "C:\Users\Myuser\Downloads\Windows-PlayStation-3DS-
 
 3dstool.exe -cvtf romfs romfs.bin --romfs-dir "C:\Users\Myuser\Downloads\Windows-PlayStation-3DS-forwarder-main\romfs"
 
-makerom.exe -f cia -o "Resident Evil.cia" -rsf  "C:\Users\Myuser\Downloads\Windows-PlayStation-3DS-forwarder-main\resources\template.rsf" -exefslogo -elf "C:\Users\Myuser\Downloads\Windows-PlayStation-3DS-forwarder-main\resources\icon.pngretroarch_3ds.elf" -romfs romfs.bin -icon icon.icn -banner banner.bnr -DAPP_UNIQUE_ID=REDC -DAPP_SYSTEM_MODE=64MB -DAPP_SYSTEM_MODE_EXT=124MB -DAPP_ENCRYPTED=false
+makerom.exe -f cia -o "Resident Evil.cia" -rsf  "C:\Users\Myuser\Downloads\Windows-PlayStation-3DS-forwarder-main\resources\template.rsf" -exefslogo -elf "C:\Users\Myuser\Downloads\Windows-PlayStation-3DS-forwarder-main\resources\retroarch_3ds.elf" -romfs romfs.bin -icon icon.icn -banner banner.bnr -DAPP_UNIQUE_ID=REDC -DAPP_SYSTEM_MODE=64MB -DAPP_SYSTEM_MODE_EXT=124MB -DAPP_ENCRYPTED=false
 
 ```
 
