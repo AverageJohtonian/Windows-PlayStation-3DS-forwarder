@@ -5,7 +5,7 @@ If you’ve ever tried to inject PlayStation games on your 3DS, you may know the
 
 **So long story short, it's a Windows version of SirFluffDev's tool so you don't have to get the Windows versions of the tool yourself.**
 
-### A video tutorial is coming (can't tell if soon).
+[![Tutorial video](https://img.youtube.com/vi/sAQcbDe_Aco/0.jpg)](https://www.youtube.com/watch?v=sAQcbDe_Aco)
 
 ## Thanks to
 - [Luke Willis](https://github.com/SirFluffDev) for creating the original tool.
