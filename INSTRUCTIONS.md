@@ -3,7 +3,7 @@
 - Banner size has to be 256x128px and PNG format.
 - Icon size has to be 48x48px and PNG format.
 - Sound length has to be **LESS** than 3 seconds, e.g. 2,9 seconds. WAV format.
-- Game must be in .chd format.
+- Game must be in your chosen version's format (PBP or CHD).
 - UNIQUE ID must be four characters. Only letters and numbers.
 
 # Tutorial
@@ -61,7 +61,7 @@ Now that our CIA has been created, let's delete all the assets files we used:
 - icon.icn
 - banner.bnr
 - romfs.bin
-- game.chd
+- game.chd or game.pbp
 
 ### Important
 If you're gonna inject more games, you have to make sure your CIAs have different Title IDs and Product Codes, if not it will fuck up your previous game.
