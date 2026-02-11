@@ -1,0 +1,6 @@
+# PCSX-ReARMed core options (standard digital pad)
+pcsx_rearmed_hle = "disabled"
+pcsx_rearmed_bios = "auto"
+pcsx_rearmed_pad1type = "standard"
+pcsx_rearmed_pad2type = "standard"
+pcsx_rearmed_drc = "enabled"
